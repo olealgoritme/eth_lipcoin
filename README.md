@@ -1,8 +1,8 @@
-LipCoin solidity smartcontract boiler
+### LipCoin solidity smartcontract boiler
 
-requirements:
-truffle framework -> deploy ropsten test network
-infuria.io API key
+##requirements:
+#truffle framework -> deploy ropsten test network
+#infuria.io API key
 
 ````
 npm install truffle
