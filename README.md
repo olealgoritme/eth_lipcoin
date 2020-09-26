@@ -1,0 +1,2 @@
+LipCoin solidity smartcontract boiler
+
