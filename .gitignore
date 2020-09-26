@@ -1,3 +1,4 @@
 truffle-config.js
 build
 .git
+node_modules
